@@ -10,3 +10,4 @@ gem 'html-proofer'
 gem 'rake'
 gem 'nokogiri', '>=1.8.2'
 gem 'jekyll-multiple-languages-plugin' 
+gem "jekyll", ">= 3.6.3"
