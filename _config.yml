@@ -1,5 +1,8 @@
 # theme: documentation-theme-jekyll
 # repository: tomjohnson1492/documentation-theme-jekyll
+#
+plugins:
+ - jekyll-multiple-languages-plugin 
 
 baseurl: ""
 languages: ["en", "de"]
